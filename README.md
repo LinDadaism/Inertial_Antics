@@ -16,9 +16,9 @@ This game is developed purely for PC platforms. The development process to take 
 
 Watch the Trailer
 ---------
-https://drive.google.com/file/d/1nzWO9MthA4IaZgHk-NyLwy4nAjIFmlsr/view?usp=sharing
+https://user-images.githubusercontent.com/46789205/230478400-2d9eb346-ac96-488c-ac56-7808c5315220.mp4
 
 
 Play Demo
 ---------
-https://drive.google.com/file/d/1amn9Sdg7o821iWCJwm0ENEpUzCgdJWc1/view?usp=share_link
+https://user-images.githubusercontent.com/46789205/230478446-91316213-08e0-4545-899d-93a9c33cd2fd.mp4
