@@ -2,7 +2,13 @@
 
 Developed with Unreal Engine 5 
 
-Authors: Xinyu Niu, Tianyi Xiao and Linda Zhu.
+**Authors:** 
+
+[Xinyu Niu](https://www.linkedin.com/in/xinyu-niu-5521a324a/): Environment/Prop Art, Game Design
+
+[Tianyi Xiao](https://www.linkedin.com/in/tianyi-xiao-20268524a/): Game Design, Gameplay Programming
+
+[Linda Zhu](https://lindadaism.com/): Technical Art, Gameplay Programming
 
 Overview
 ---------
